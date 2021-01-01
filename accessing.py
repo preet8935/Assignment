@@ -6,7 +6,7 @@ from threading import Thread
 import code as x 
 #importing the main file("code" is the name of the file I have used) as a library 
 
-x.create("preet",15,9898)
+x.create("preet",15,)
 #to create a key with key_name,value given and with no time-to-live property
 
 
